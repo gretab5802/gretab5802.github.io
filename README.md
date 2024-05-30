@@ -1,4 +1,4 @@
-# Undergraduate Computer Science student at the University of Minnesota - Twin Cities
+# Computer Scientist
 
 ### Education
 Computer Science, B.S.
