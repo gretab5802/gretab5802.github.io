@@ -1,5 +1,5 @@
 title: Greta Brown
-# logo:
+logo: /assets/images/101823cse413.jpg
 # description: text below image
 # show_downloads: true
-remote_theme: gretab5802/octicons
+theme: jekyll-theme-minimal
