@@ -17,7 +17,7 @@ Undergraduate Teaching Assistant at the University of Minnesota Department of Co
 Associate Embedded Engineer at FDR Design, Buffalo, MN: August 2019 - February 2022
 * Designed and programmed LED touchscreen interfaces for window gas sensors for data visualization.
 * Assembled and integrated custom semiconductor chips for gas sensors.
-* Contributed to the development of company website and shopping page.
+* Contributed to the development of the company website and shopping page.
 
 ### Projects
 ASL Computer Vision Translator, CSCI 4511W - Introduction to Artificial Intelligence: March 2024 - May 2024
@@ -28,9 +28,13 @@ ASL Computer Vision Translator, CSCI 4511W - Introduction to Artificial Intellig
 Distance Robot Arm, CSE 1012 - Project-Based Inquiry: February 2023 - April 2023
 * Spearheaded programming and hardware in a group project that enabled remote robot arm control with a glove interface.
 * Gained hands-on experience in peer collaboration, project development and presentation, Arduino IDE, C++, sensors, and microcontrollers.
+[![Distance Robot Arm]
+(https://img.youtube.com/vi/ozF-_InSFqY/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=ozF-_InSFqY)
 
 Activities Experience
 Marching Band at the University of Minnesota - Twin Cities, Minneapolis, MN: June 2023 - Present
 * Participate as a dedicated member of the drumline.
+
 Robotics Club Captain and Code Team Lead at Maple Lake High School, Maple Lake, MN: September 2020 - May 2022
 * Oversaw practices, mentored the Code Team, and managed competition logistics.
