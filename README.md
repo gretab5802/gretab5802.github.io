@@ -29,8 +29,8 @@ Distance Robot Arm, CSE 1012 - Project-Based Inquiry: February 2023 - April 2023
 * Spearheaded programming and hardware in a group project that enabled remote robot arm control with a glove interface.
 * Gained hands-on experience in peer collaboration, project development and presentation, Arduino IDE, C++, sensors, and microcontrollers.
 
-Project video: </br>
-{% include youtube.html id="ozF-_InSFqY" %}
+Project video:
+{% include youtube.html id="ozF-_InSFqY" %} <br />
 
 ### Activities Experience
 Marching Band at the University of Minnesota - Twin Cities, Minneapolis, MN: June 2023 - Present
