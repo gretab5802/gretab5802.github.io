@@ -28,9 +28,8 @@ ASL Computer Vision Translator, CSCI 4511W - Introduction to Artificial Intellig
 Distance Robot Arm, CSE 1012 - Project-Based Inquiry: February 2023 - April 2023
 * Spearheaded programming and hardware in a group project that enabled remote robot arm control with a glove interface.
 * Gained hands-on experience in peer collaboration, project development and presentation, Arduino IDE, C++, sensors, and microcontrollers.
-[![Distance Robot Arm]
-(https://img.youtube.com/vi/ozF-_InSFqY/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=ozF-_InSFqY)
+
+{% include youtube.html id="ozF-_InSFqY" %}
 
 Activities Experience
 Marching Band at the University of Minnesota - Twin Cities, Minneapolis, MN: June 2023 - Present
