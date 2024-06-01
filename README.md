@@ -1,7 +1,7 @@
 # Computer Scientist
 
 ### Education
-**Computer Science, B.S.**, Expected May 2026 <br />
+**Computer Science, B.S.**, _Expected May 2026_ <br />
 University of Minnesota, Twin Cities, College of Science and Engineering
 
 ### Skils
