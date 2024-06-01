@@ -51,6 +51,8 @@ University of Minnesota, Twin Cities, College of Science and Engineering
 * Developed a semester-long drone simulation project, contributing to planning, design, programming, testing, debugging, and project presentation.
 * Collaborated with a team using Agile and Scrum methodologies, enhancing teamwork skills and gaining experience with real-world software development cycles.
 
+[Docker link for project code](https://hub.docker.com/repository/docker/brow6801/drone_sim/general) <br />
+
 **Distance Robot Arm**, CSE 1012: Project-Based Inquiry, _February 2023 - April 2023_
 * Spearheaded programming and hardware in a group project that enabled remote robot arm control with a glove interface.
 * Gained hands-on experience in peer collaboration, project development and presentation, Arduino IDE, C++, sensors, and microcontrollers.
