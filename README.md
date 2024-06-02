@@ -49,7 +49,7 @@ University of Minnesota, Twin Cities, College of Science and Engineering
 
 Sample outputs from the project:
 
-<img src="https://github.com/gretab5802/gretab5802.github.io/blob/main/assets/images/ASLdGuess.png" width=20% height=20%>
+![ASL Results](/assets/images/ASLresults.png)
 
 [Project GitHub link](https://github.com/gretab5802/asl-recognition) <br />
 
