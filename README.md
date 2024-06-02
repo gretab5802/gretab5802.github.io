@@ -5,14 +5,14 @@ Welcome to my personal website! I am a passionate computer science student at th
 ### Education
 **Computer Science, B.S.** _Expected May 2026_ <br />
 University of Minnesota, Twin Cities, College of Science and Engineering
-
+<br />
 
 ### Skills
 **Programming Languages:** C/C++, Python, Java, OCaml, R, HTML, CSS, JavaScript <br />
 **Tools & Technologies:** Git, Arduino, Raspberry Pi, Docker, UML, Visual Studio <br />
 **Soft Skills:** Object-Oriented Programming, Public Speaking, Team Collaboration <br />
 **Languages:** Fluent in English; Conversational Proficiency in Spanish
-
+<br />
 
 ### Relevant Classwork
 **CSE 1012: Project-Based Inquiry**
@@ -35,7 +35,7 @@ University of Minnesota, Twin Cities, College of Science and Engineering
 * Explored foundational AI topics including agents, search spaces and algorithms, constraint satisfaction, planning, knowledge representation, and introductory neural networks.
 * Programmed AI search algorithms using Python, NumPy, and PyTorch.
 * Completed an open-ended group project leveraging computer vision to translate the American Sign Language alphabet.
-
+<br />
 
 ### Work Experience
 **Undergraduate Teaching Assistant** at the University of Minnesota Department of College of Science and Engineering, Minneapolis, MN: _January 2023 - Present_
@@ -47,7 +47,7 @@ University of Minnesota, Twin Cities, College of Science and Engineering
 * Designed and programmed LED touchscreen interfaces for window gas sensors for data visualization.
 * Assembled and integrated custom semiconductor chips for gas sensors.
 * Contributed to the development of the company website and shopping page.
-
+<br />
 
 ### Projects
 **American Sign Language (ASL) Computer Vision Translator**, CSCI 4511W: Introduction to Artificial Intelligence, _March 2024 - May 2024_
@@ -71,7 +71,7 @@ Sample outputs from the project:
 
 Project video:
 {% include youtube.html id="ozF-_InSFqY" %} <br />
-
+<br />
 
 ### Activities Experience
 **Marching Band** at the University of Minnesota - Twin Cities, Minneapolis, MN: _April 2023 - Present_
@@ -81,7 +81,7 @@ Project video:
 **Robotics Club Captain and Code Team Lead** at Maple Lake High School, Maple Lake, MN: _September 2020 - May 2022_
 * Oversaw practices, mentored the Code Team, and managed competition logistics.
 * Worked on outreach with the community and fellow robotics teams.
-
+<br />
 
 ### Connect with Me
 - **Email:** [gretabrown01@gmail.com](mailto:gretabrown01@gmail.com)
