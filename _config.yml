@@ -1,5 +1,9 @@
 title: Greta Brown
+description: "Personal website of Greta Brown, a Computer Science student at the University of Minnesota. Explore my projects, skills, and experiences."
+author: Greta Brown
 logo: /assets/images/101823cse413.jpg
-# description: text below image
-# show_downloads: true
 theme: jekyll-theme-minimal
+social:
+  email: gretabrown01@gmail.com
+  github: gretab5802
+  linkedin: www.linkedin.com/in/greta-brown-8b5351291
