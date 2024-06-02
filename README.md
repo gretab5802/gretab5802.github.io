@@ -2,19 +2,17 @@
 
 Welcome to my personal website! I am a passionate computer science student at the University of Minnesota, Twin Cities. Here, you'll find information about my education, skills, projects, and more. My interests lie in robotics, artificial intelligence, and embedded systems. Feel free to explore my work and connect with me!
 
-### Education
+## Education
 **Computer Science, B.S.** _Expected May 2026_ <br />
 University of Minnesota, Twin Cities, College of Science and Engineering
-<br />
 
-### Skills
+## Skills
 **Programming Languages:** C/C++, Python, Java, OCaml, R, HTML, CSS, JavaScript <br />
 **Tools & Technologies:** Git, Arduino, Raspberry Pi, Docker, UML, Visual Studio <br />
 **Soft Skills:** Object-Oriented Programming, Public Speaking, Team Collaboration <br />
 **Languages:** Fluent in English; Conversational Proficiency in Spanish
-<br />
 
-### Relevant Classwork
+## Relevant Classwork
 **CSE 1012: Project-Based Inquiry**
 * Engaged in individual and group projects focusing on microcontrollers, sensors, data collection and analysis, and design processes.
 * Developed skills in project design, prototyping, redesign, and documentation.
@@ -35,9 +33,8 @@ University of Minnesota, Twin Cities, College of Science and Engineering
 * Explored foundational AI topics including agents, search spaces and algorithms, constraint satisfaction, planning, knowledge representation, and introductory neural networks.
 * Programmed AI search algorithms using Python, NumPy, and PyTorch.
 * Completed an open-ended group project leveraging computer vision to translate the American Sign Language alphabet.
-<br />
 
-### Work Experience
+## Work Experience
 **Undergraduate Teaching Assistant** at the University of Minnesota Department of College of Science and Engineering, Minneapolis, MN: _January 2023 - Present_
 * Lead weekly lab sessions for Java and Python-based classes, providing hands-on coding support.
 * Evaluate and provide detailed feedback on weekly coding assignments.
@@ -47,9 +44,8 @@ University of Minnesota, Twin Cities, College of Science and Engineering
 * Designed and programmed LED touchscreen interfaces for window gas sensors for data visualization.
 * Assembled and integrated custom semiconductor chips for gas sensors.
 * Contributed to the development of the company website and shopping page.
-<br />
 
-### Projects
+## Projects
 **American Sign Language (ASL) Computer Vision Translator**, CSCI 4511W: Introduction to Artificial Intelligence, _March 2024 - May 2024_
 * Applied MediaPipe’s Hand Landmark Detection and Singular Value Decomposition (SVD) for real-time American Sign Language (ASL) recognition.
 * Developed Python programming and Raspberry Pi hardware, as well as integration.
@@ -71,9 +67,8 @@ Sample outputs from the project:
 
 Project video:
 {% include youtube.html id="ozF-_InSFqY" %} <br />
-<br />
 
-### Activities Experience
+## Activities Experience
 **Marching Band** at the University of Minnesota - Twin Cities, Minneapolis, MN: _April 2023 - Present_
 * Participate as a dedicated member of the drumline.
 * Attend daily practices and perform at home football games.
@@ -81,9 +76,8 @@ Project video:
 **Robotics Club Captain and Code Team Lead** at Maple Lake High School, Maple Lake, MN: _September 2020 - May 2022_
 * Oversaw practices, mentored the Code Team, and managed competition logistics.
 * Worked on outreach with the community and fellow robotics teams.
-<br />
 
-### Connect with Me
+## Connect with Me
 - **Email:** [gretabrown01@gmail.com](mailto:gretabrown01@gmail.com)
 - **GitHub:** [gretab5802](https://github.com/gretab5802)
 - **LinkedIn:** [Greta Brown](https://www.linkedin.com/in/greta-brown-8b5351291)
