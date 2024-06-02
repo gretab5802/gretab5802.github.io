@@ -48,8 +48,10 @@ University of Minnesota, Twin Cities, College of Science and Engineering
 * Gained experience in group work, Python, NumPy, artificial intelligence, computer vision, Raspberry Pi, and linear algebra applications, including Singular Value Decomposition (SVD).
 
 Sample outputs from the project:
+
 <img src="/assets/images/ASLdGuess.png" width=20% height=20%>
 <img src="/assets/images/ASLnGuess.png" width=20% height=20%>
+
 [Project GitHub link](https://github.com/gretab5802/asl-recognition) <br />
 
 **Drone Delivery Simulation**, CSCI 3081W: Program Design and Development, _January 2024 - May 2024_
