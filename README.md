@@ -27,11 +27,11 @@ Dublin, Ireland
   
 **CSCI 3081W: Program Design and Development**
 * Learned programming design principles and software development concepts through project-based work.
-* Undertook a semester-long group project to develop a drone delivery simulation, applying key ideas in program design, data structures, debugging, file handling, I/O, testing, and coding standards.
-* Gained practical experience with tools such as Docker, Git, GitHub, UML, and explored requirements, development models, and design patterns.
+* Undertook a semester-long group project to develop a drone delivery simulation, applying key ideas in program design, development, data structures, debugging, file handling, I/O, testing, and coding standards.
+* Gained practical experience with Docker, Git, GitHub, UML, requirements, development models, and design patterns.
 
 **CSCI 4041: Algorithms and Data Structures**
-* Learned advanced data structures and algorithm design strategies to tackle novel problems.
+* Learned advanced data structures and algorithm strategies to tackle new problems.
 * Applied mathematical techniques to analyze and prove algorithm correctness and running time.
 * Enhanced problem-solving capabilities through advanced coursework.
 
