@@ -1,12 +1,16 @@
 # Computer Scientist
 
+Welcome to my personal website! I am a passionate computer science student at the University of Minnesota, Twin Cities. Here, you'll find information about my education, skills, projects, and more. My interests lie in robotics, artificial intelligence, and embedded systems. Feel free to explore my work and connect with me!
+
 ### Education
 **Computer Science, B.S.** _Expected May 2026_ <br />
 University of Minnesota, Twin Cities, College of Science and Engineering
 
-### Skils
-**Technical Skills:** C/C++, Python, Java, OCaml, R, HTML, CSS, JavaScript, Git, Arduino, Raspberry Pi, Object-Oriented Programming, Windows Visual Studio, Public Speaking <br />
-**Language:** Fluent in English; Conversational Proficiency in Spanish
+### Skills
+**Programming Languages:** C/C++, Python, Java, OCaml, R, HTML, CSS, JavaScript <br />
+**Tools & Technologies:** Git, Arduino, Raspberry Pi, Docker, UML, Visual Studio <br />
+**Soft Skills:** Object-Oriented Programming, Public Speaking, Team Collaboration <br />
+**Languages:** Fluent in English; Conversational Proficiency in Spanish
 
 ### Relevant Classwork
 **CSE 1012: Project-Based Inquiry**
@@ -43,28 +47,24 @@ University of Minnesota, Twin Cities, College of Science and Engineering
 
 ### Projects
 **American Sign Language (ASL) Computer Vision Translator**, CSCI 4511W: Introduction to Artificial Intelligence, _March 2024 - May 2024_
-* Applied MediaPipe’s Hand Landmark Detection and Singular Value Decomposition (SVD) for real-time American Sign Language (ASL) recognition.
-* Developed Python programming and Raspberry Pi hardware, as well as integration.
-* Gained experience in group work, Python, NumPy, artificial intelligence, computer vision, Raspberry Pi, and linear algebra applications, including Singular Value Decomposition (SVD).
-
-Sample outputs from the project:
-
-![ASL Results](/assets/images/ASLresults.png)
-
-[Project GitHub link](https://github.com/gretab5802/asl-recognition) <br />
+* **Technologies:** Python, MediaPipe, Singular Value Decomposition (SVD), Raspberry Pi, Computer Vision
+* Developed a real-time ASL recognition system using MediaPipe and SVD.
+* Integrated Python programming with Raspberry Pi hardware for seamless functionality.
+* [Project GitHub link](https://github.com/gretab5802/asl-recognition)
+* ![ASL Results](/assets/images/ASLresults.png)
 
 **Drone Delivery Simulation**, CSCI 3081W: Program Design and Development, _January 2024 - May 2024_
-* Developed a semester-long drone simulation project, contributing to planning, design, programming, testing, debugging, and project presentation.
-* Collaborated with a team using Agile and Scrum methodologies, enhancing teamwork skills and gaining experience with real-world software development cycles.
-
-[Docker link for project code](https://hub.docker.com/repository/docker/brow6801/drone_sim/general) <br />
+* **Technologies:** Docker, Agile, Scrum
+* Created a drone simulation involving planning, design, programming, testing, and debugging.
+* Collaborated with a team using Agile and Scrum methodologies.
+* [Docker link for project code](https://hub.docker.com/repository/docker/brow6801/drone_sim/general)
 
 **Distance Robot Arm**, CSE 1012: Project-Based Inquiry, _February 2023 - April 2023_
-* Spearheaded programming and hardware in a group project that enabled remote robot arm control with a glove interface.
-* Gained hands-on experience in peer collaboration, project development and presentation, Arduino IDE, C++, sensors, and microcontrollers.
-
-Project video:
-{% include youtube.html id="ozF-_InSFqY" %} <br />
+* **Technologies:** Arduino, C++, Sensors, Microcontrollers
+* Led the development of a remote-controlled robot arm using a glove interface.
+* Gained hands-on experience in peer collaboration and project presentation.
+* [Project GitHub link](https://github.com/gretab5802/distance-robot-arm)
+* Project video: {% include youtube.html id="ozF-_InSFqY" %}
 
 ### Activities Experience
 **Marching Band** at the University of Minnesota - Twin Cities, Minneapolis, MN: _April 2023 - Present_
