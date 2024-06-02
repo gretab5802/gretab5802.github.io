@@ -47,24 +47,26 @@ University of Minnesota, Twin Cities, College of Science and Engineering
 
 ### Projects
 **American Sign Language (ASL) Computer Vision Translator**, CSCI 4511W: Introduction to Artificial Intelligence, _March 2024 - May 2024_
-* **Technologies:** Python, MediaPipe, Singular Value Decomposition (SVD), Raspberry Pi, Computer Vision
-* Developed a real-time ASL recognition system using MediaPipe and SVD.
-* Integrated Python programming with Raspberry Pi hardware for seamless functionality.
+* Applied MediaPipe’s Hand Landmark Detection and Singular Value Decomposition (SVD) for real-time American Sign Language (ASL) recognition.
+* Developed Python programming and Raspberry Pi hardware, as well as integration.
+* Gained experience in group work, Python, NumPy, artificial intelligence, computer vision, Raspberry Pi, and linear algebra applications, including Singular Value Decomposition (SVD).
 * [Project GitHub link](https://github.com/gretab5802/asl-recognition)
-* ![ASL Results](/assets/images/ASLresults.png)
+
+Sample outputs from the project:
+![ASL Results](/assets/images/ASLresults.png)  <br />
 
 **Drone Delivery Simulation**, CSCI 3081W: Program Design and Development, _January 2024 - May 2024_
-* **Technologies:** Docker, Agile, Scrum
-* Created a drone simulation involving planning, design, programming, testing, and debugging.
-* Collaborated with a team using Agile and Scrum methodologies.
+* Developed a semester-long drone simulation project, contributing to planning, design, programming, testing, debugging, and project presentation.
+* Collaborated with a team using Agile and Scrum methodologies, enhancing teamwork skills and gaining experience with real-world software development cycles.
 * [Docker link for project code](https://hub.docker.com/repository/docker/brow6801/drone_sim/general)
 
 **Distance Robot Arm**, CSE 1012: Project-Based Inquiry, _February 2023 - April 2023_
-* **Technologies:** Arduino, C++, Sensors, Microcontrollers
-* Led the development of a remote-controlled robot arm using a glove interface.
-* Gained hands-on experience in peer collaboration and project presentation.
+* Spearheaded programming and hardware in a group project that enabled remote robot arm control with a glove interface.
+* Gained hands-on experience in peer collaboration, project development and presentation, Arduino IDE, C++, sensors, and microcontrollers.
 * [Project GitHub link](https://github.com/gretab5802/distance-robot-arm)
-* Project video: {% include youtube.html id="ozF-_InSFqY" %}
+
+Project video:
+{% include youtube.html id="ozF-_InSFqY" %} <br />
 
 ### Activities Experience
 **Marching Band** at the University of Minnesota - Twin Cities, Minneapolis, MN: _April 2023 - Present_
