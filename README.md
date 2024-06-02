@@ -4,7 +4,13 @@ Welcome to my personal website! I am a passionate computer science student at th
 
 ## Education
 **Computer Science, B.S.** _Expected May 2026_ <br />
-University of Minnesota, Twin Cities, College of Science and Engineering
+University of Minnesota, Twin Cities, College of Science and Engineering <br />
+Minneapolis, MN <br />
+
+**Big Ten STEM and Irish History** _May 2023 – July 2023_
+University College Dublin
+Dublin, Ireland
+* Physics II and Modern Ireland and European History studied over a 7-week study abroad summer term in Dublin, Ireland. Both courses emphasized group work, collaboration, participation, and hands-on learning.
 
 ## Skills
 **Programming Languages:** C/C++, Python, Java, OCaml, R, HTML, CSS, JavaScript <br />
