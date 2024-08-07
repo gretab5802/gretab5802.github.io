@@ -42,9 +42,10 @@ Dublin, Ireland
 
 ## Work Experience
 **Undergraduate Teaching Assistant** at the University of Minnesota Department of College of Science and Engineering, Minneapolis, MN: _January 2023 - Present_
-* Lead weekly lab sessions for Java and Python-based classes, providing hands-on coding support.
-* Evaluate and provide detailed feedback on weekly coding assignments.
-* Host weekly office hours, offering personalized guidance on code-related inquiries and reinforcing programming concepts.
+* Led weekly lab sessions for Java and Python-based classes, providing hands-on coding support.
+* Evaluated and provided detailed feedback on weekly assignments for courses including Introduction to Programming, Introduction to Algorithms and Data Structures, and Introduction to Artificial Intelligence.
+* Host weekly office hours to guide code-related inquiries and reinforce programming concepts.
+
 
 **Associate Embedded Engineer** at FDR Design, Buffalo, MN: _August 2019 - February 2022_
 * Designed and programmed LED touchscreen interfaces for window gas sensors for data visualization.
@@ -68,16 +69,21 @@ Sample outputs from the project:
 
 **Distance Robot Arm**, CSE 1012: Project-Based Inquiry, _February 2023 - April 2023_
 * Spearheaded programming and hardware in a group project that enabled remote robot arm control with a glove interface.
-* Gained hands-on experience in peer collaboration, project development and presentation, Arduino IDE, C++, sensors, and microcontrollers.
+* Acquired practical skills in teamwork, project planning and execution, delivering presentations, public speaking, Arduino IDE, C++, and working with various sensors and microcontrollers.
 * [Project GitHub link](https://github.com/gretab5802/distance-robot-arm)
 
 Project video:
 {% include youtube.html id="ozF-_InSFqY" %} <br />
 
+**LED Launcher**, CSE 1012: Project-Based Inquiry, _April 2023_
+* Designed and developed individual Arduino-based project with LEDs, servo motors, and gyroscope accelerometer.
+* Gained hands-on experience in project management, programming, Arduino IDE, C++, and integration of sensors and microcontrollers.
+* [Project GitHub link](https://github.com/gretab5802/led-launcher)
+
 ## Activities Experience
 **Marching Band** at the University of Minnesota - Twin Cities, Minneapolis, MN: _April 2023 - Present_
 * Participate as a dedicated member of the drumline.
-* Attend daily practices and perform at home football games.
+* Attend daily practices and perform at football games.
 
 **Robotics Club Captain and Code Team Lead** at Maple Lake High School, Maple Lake, MN: _September 2020 - May 2022_
 * Oversaw practices, mentored the Code Team, and managed competition logistics.
