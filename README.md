@@ -80,6 +80,13 @@ Project video:
 * Gained hands-on experience in project management, programming, Arduino IDE, C++, and integration of sensors and microcontrollers.
 * [Project GitHub link](https://github.com/gretab5802/led-launcher)
 
+<p align="center">
+  <img src="/assets/images/CSE1012IndividualProject2Full.png" width="200" />
+  <img src="/assets/images/CSE1012IndivProjec2LED1.JPEG" width="200" />
+  <img src="/assets/images/CSE1012IndivProjec2LED2.JPEG" width="200" />
+  <img src="/assets/images/CSE1012IndivProjec2LED3.JPEG" width="200" />
+</p>
+
 ## Activities Experience
 **Marching Band** at the University of Minnesota - Twin Cities, Minneapolis, MN: _April 2023 - Present_
 * Participate as a dedicated member of the drumline.
