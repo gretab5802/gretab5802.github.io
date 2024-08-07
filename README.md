@@ -81,7 +81,9 @@ Project video:
 * [Project GitHub link](https://github.com/gretab5802/led-launcher)
 
 <p align="center">
-  <img src="/assets/images/CSE1012IndividualProject2Full.png" height="100" />
+  <img src="/assets/images/CSE1012IndividualProject2Full.png" height="200" />
+</p>
+<p align="center">
   <img src="/assets/images/CSE1012IndivProjec2LED1.JPEG" height="100" />
   <img src="/assets/images/CSE1012IndivProjec2LED2.JPEG" height="100" />
   <img src="/assets/images/CSE1012IndivProjec2LED3.JPEG" height="100" />
