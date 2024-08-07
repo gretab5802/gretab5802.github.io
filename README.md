@@ -82,9 +82,9 @@ Project video:
 
 <p align="center">
   <img src="/assets/images/CSE1012IndividualProject2Full.png" width="200" />
-  <img src="/assets/images/CSE1012IndivProjec2LED1.JPEG" width="200" />
-  <img src="/assets/images/CSE1012IndivProjec2LED2.JPEG" width="200" />
-  <img src="/assets/images/CSE1012IndivProjec2LED3.JPEG" width="200" />
+  <img src="/assets/images/CSE1012IndivProjec2LED1.JPEG" height="100" />
+  <img src="/assets/images/CSE1012IndivProjec2LED2.JPEG" height="100" />
+  <img src="/assets/images/CSE1012IndivProjec2LED3.JPEG" height="100" />
 </p>
 
 ## Activities Experience
