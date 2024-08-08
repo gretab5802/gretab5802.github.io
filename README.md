@@ -30,11 +30,6 @@ Dublin, Ireland
 * Undertook a semester-long group project to develop a drone delivery simulation, applying key ideas in program design, development, data structures, debugging, file handling, I/O, testing, and coding standards.
 * Gained practical experience with Docker, Git, GitHub, UML, requirements, development models, and design patterns.
 
-**CSCI 4041: Algorithms and Data Structures**
-* Learned advanced data structures and algorithm strategies to tackle new problems.
-* Applied mathematical techniques to analyze and prove algorithm correctness and running time.
-* Enhanced problem-solving capabilities through advanced coursework.
-
 **CSCI 4511W: Introduction to Artificial Intelligence**
 * Explored foundational AI topics including agents, search spaces and algorithms, constraint satisfaction, planning, knowledge representation, and introductory neural networks.
 * Programmed AI search algorithms using Python, NumPy, and PyTorch.
@@ -45,7 +40,6 @@ Dublin, Ireland
 * Led weekly lab sessions for Java and Python-based classes, providing hands-on coding support.
 * Evaluated and provided detailed feedback on weekly assignments for courses including Introduction to Programming, Introduction to Algorithms and Data Structures, and Introduction to Artificial Intelligence.
 * Host weekly office hours to guide code-related inquiries and reinforce programming concepts.
-
 
 **Associate Embedded Engineer** at FDR Design, Buffalo, MN: _August 2019 - February 2022_
 * Designed and programmed LED touchscreen interfaces for window gas sensors for data visualization.
@@ -69,7 +63,7 @@ Sample outputs from the project:
 
 **Distance Robot Arm**, CSE 1012: Project-Based Inquiry, _February 2023 - April 2023_
 * Spearheaded programming and hardware in a group project that enabled remote robot arm control with a glove interface.
-* Acquired practical skills in teamwork, project planning and execution, delivering presentations, public speaking, Arduino IDE, C++, and working with various sensors and microcontrollers.
+* Acquired practical skills in teamwork, project planning and execution, delivering presentations, public speaking, Arduino, C++, and working with various sensors and microcontrollers.
 * [Project GitHub link](https://github.com/gretab5802/distance-robot-arm)
 
 Project video:
@@ -77,7 +71,7 @@ Project video:
 
 **LED Launcher**, CSE 1012: Project-Based Inquiry, _April 2023_
 * Designed and developed individual Arduino-based project with LEDs, servo motors, and gyroscope accelerometer.
-* Gained hands-on experience in project management, programming, Arduino IDE, C++, and integration of sensors and microcontrollers.
+* Gained hands-on experience in project management, Arduino, C++, and integration of sensors and microcontrollers.
 * [Project GitHub link](https://github.com/gretab5802/led-launcher)
 
 <p align="center">
@@ -87,6 +81,26 @@ Project video:
   <img src="/assets/images/CSE1012IndivProjec2LED1.JPEG" height="100" />
   <img src="/assets/images/CSE1012IndivProjec2LED2.JPEG" height="100" />
   <img src="/assets/images/CSE1012IndivProjec2LED3.JPEG" height="100" />
+</p>
+
+**Room Lux**, CSE 1012: Project-Based Inquiry, _February 2023_
+* Designed and developed individual Arduino project using lux sensor.
+* Gained experience in project management, data collection and analysis, sensors and microcontrollers, Arduino, and C++.
+* [Project GitHub link](https://github.com/gretab5802/room-lux)
+
+Setup:
+<p align="center">
+  <img src="/assets/images/window1far.png" height="200" />
+  <img src="/assets/images/window2far.png" height="200" />
+</p>
+Results:
+<p align="center">
+  <img src="/assets/images/northwindowsma.png" height="100" />
+  <img src="/assets/images/southhwindowsma.png" height="100" />
+  <img src="/assets/images/northvssouth.png" height="100" />
+</p>
+<p align="center" style="font-size: 0.8em; color: gray;">
+  SMA stands for simple moving average
 </p>
 
 ## Activities Experience
