@@ -74,6 +74,7 @@ Project video:
 * Gained hands-on experience in project management, Arduino, C++, and integration of sensors and microcontrollers.
 * [Project GitHub link](https://github.com/gretab5802/led-launcher)
 
+Setup:
 <p align="center">
   <img src="/assets/images/CSE1012IndividualProject2Full.png" height="200" />
 </p>
@@ -95,9 +96,11 @@ Setup:
 </p>
 Results:
 <p align="center">
-  <img src="/assets/images/northwindowsma.png" height="100" />
-  <img src="/assets/images/southwindowsma.png" height="100" />
-  <img src="/assets/images/northvssouth.png" height="100" />
+  <img src="/assets/images/northvssouth.png" height="200" />
+</p>
+<p align="center">
+  <img src="/assets/images/northwindowsma.png" height="120" />
+  <img src="/assets/images/southwindowsma.png" height="120" />
 </p>
 <p align="center" style="font-size: 0.8em; color: gray;">
   SMA stands for simple moving average
