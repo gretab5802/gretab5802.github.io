@@ -90,13 +90,13 @@ Project video:
 
 Setup:
 <p align="center">
-  <img src="/assets/images/window1far.png" height="200" />
-  <img src="/assets/images/window2far.png" height="200" />
+  <img src="/assets/images/window1far.png" height="120" />
+  <img src="/assets/images/window2far.png" height="120" />
 </p>
 Results:
 <p align="center">
   <img src="/assets/images/northwindowsma.png" height="100" />
-  <img src="/assets/images/southhwindowsma.png" height="100" />
+  <img src="/assets/images/southwindowsma.png" height="100" />
   <img src="/assets/images/northvssouth.png" height="100" />
 </p>
 <p align="center" style="font-size: 0.8em; color: gray;">
