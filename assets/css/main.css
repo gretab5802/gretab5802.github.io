@@ -3428,16 +3428,19 @@ input, select, textarea {
 		    position: absolute;
 		    top: 0;
 		    left: 0;
-		    background-color: #f4f4f4; /* Same background color as before */
-		    border-radius: 15px; /* Adjust this value for more or less curve */
+		    background-color: #f4f4f4;
+		    border-radius: 15px;
 		}
 
 
 		#intro .logo img {
-			display: block;
-			margin-left: -0.25em;
-			width: 4em;
+		    display: block;
+		    width: 100%;
+		    height: 100%;
+		    object-fit: cover;
+		    border-radius: 15px; 
 		}
+
 
 	#intro header h2 {
 		font-size: 2em;
