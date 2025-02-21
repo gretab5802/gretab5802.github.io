@@ -3412,35 +3412,38 @@ input, select, textarea {
 /* Intro */
 
 	#intro .logo {
-		border-bottom: 0;
-		display: inline-block;
-		margin: 0 0 1em 0;
-		overflow: hidden;
-		position: relative;
-		width: 4em;
+	    border-bottom: 0;
+	    display: inline-block;
+	    margin: 0 0 1em 0;
+	    overflow: hidden;
+	    position: relative;
+	    width: 4em;
+	    height: 4em; /* Add height to define the container */
+	    border-radius: 15px; /* Apply rounded corners to the container */
 	}
-
-		#intro .logo:before {
-		    content: '';
-		    display: block;
-		    height: 100%;
-		    width: 100%;
-		    position: absolute;
-		    top: 0;
-		    left: 0;
-		    background-color: #f4f4f4;
-		    border-radius: 15px;
-		}
-
-
-		#intro .logo img {
-		    display: block;
-		    width: 100%;
-		    height: 100%;
-		    object-fit: cover;
-		    border-radius: 15px; 
-		}
-
+	
+	#intro .logo:before {
+	    content: '';
+	    display: block;
+	    height: 100%;
+	    width: 100%;
+	    position: absolute;
+	    top: 0;
+	    left: 0;
+	    background-color: #f4f4f4; /* Background color */
+	    border-radius: 15px; /* Match the container's border-radius */
+	    z-index: 1; /* Ensure it stays behind the image */
+	}
+	
+	#intro .logo img {
+	    display: block;
+	    width: 100%;
+	    height: 100%;
+	    object-fit: cover;
+	    border-radius: 15px; /* Ensure the image matches the rounded corners */
+	    position: relative;
+	    z-index: 2; /* Bring the image to the front */
+	}
 
 	#intro header h2 {
 		font-size: 2em;
