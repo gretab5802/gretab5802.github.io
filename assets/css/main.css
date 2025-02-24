@@ -2351,6 +2351,32 @@ input, select, textarea {
 				width: 100%;
 			}
 
+		.custom-image-container {
+		  display: flex;
+		  gap: 10px;
+		}
+		
+		.custom-image-container .large-image {
+		  flex: 1;
+		}
+		
+		.custom-image-container .small-images {
+		  display: flex;
+		  flex-direction: column;
+		  flex: 1;
+		}
+		
+		.custom-image-container .small-images img {
+		  flex: 1;
+		  object-fit: cover;
+		  margin-bottom: 10px;
+		}
+		
+		.custom-image-container .small-images img:last-child {
+		  margin-bottom: 0;
+		}
+
+
 /* List */
 
 	ol {
