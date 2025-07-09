@@ -116,6 +116,5 @@ Results:
 * Worked on outreach with the community and fellow robotics teams.
 
 ## Connect with Me
-- **Email:** [gretabrown01@gmail.com](mailto:gretabrown01@gmail.com)
 - **GitHub:** [gretab5802](https://github.com/gretab5802)
 - **LinkedIn:** [Greta Brown](https://www.linkedin.com/in/greta-brown-8b5351291)
