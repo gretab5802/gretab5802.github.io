@@ -3660,3 +3660,8 @@ input, select, textarea {
 			}
 
 		}
+
+		/* Add space below media rows before subsequent text in posts */
+		.post .row + p {
+		  margin-top: 1.5em;
+		}
