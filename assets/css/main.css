@@ -2356,15 +2356,16 @@ input, select, textarea {
 		}
 		
 		.image-group .large {
-		  width: 60%;
-		  padding: 0 4em 0 2em;
+		  width: 80%;
+		  padding: 0 2em 0 0;
 		}
 		
 		.image-group .small-images {
 		  width: 20%;
 		  display: flex;
 		  flex-direction: column;
-		  padding: 1em 0 0 0;
+		  gap: 1em;
+		  padding: 0;
 		}
 		
 		.image-group .small-images .small {
@@ -2377,6 +2378,24 @@ input, select, textarea {
 		  object-fit: cover;
 		}
 
+		/* Make embedded videos behave like featured images */
+		.image.featured iframe,
+		.image.main iframe,
+		.image.fit iframe {
+		  display: block;
+		  width: 100%;
+		  height: auto;
+		  aspect-ratio: 16 / 9;
+		  border: 0;
+		}
+
+		/* Optional: ensure iframes inside image-group scale properly */
+		.image-group .large iframe {
+		  width: 100%;
+		  height: auto;
+		  aspect-ratio: 16 / 9;
+		  display: block;
+		}
 
 /* List */
 
