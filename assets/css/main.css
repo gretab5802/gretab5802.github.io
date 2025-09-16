@@ -202,13 +202,12 @@ input, select, textarea {
 		margin: 0 0 2em 0;
 	}
 
-	/* Slightly increase paragraph size across the site */
 	p {
-		font-size: calc(1em + 2px);
+		font-size: 16pt;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #3c3b3b;
+		color: #000000;
 		font-family: "Raleway", Helvetica, sans-serif;
 		font-weight: 800;
 		letter-spacing: 0.25em;
