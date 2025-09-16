@@ -2360,12 +2360,12 @@ input, select, textarea {
 		}
 		
 		.image-group .large {
-		  width: 63%;
+		  width: 65%;
 		  padding: 0 2em 0 0;
 		}
 		
 		.image-group .small-images {
-		  width: 37%;
+		  width: 35%;
 		  display: flex;
 		  flex-direction: column;
 		  gap: 1em;
