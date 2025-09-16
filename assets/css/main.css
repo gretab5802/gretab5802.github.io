@@ -3665,3 +3665,8 @@ input, select, textarea {
 		.post .row + p {
 		  margin-top: 1.5em;
 		}
+
+		/* Ensure rows inside posts have spacing beneath (for image/text grids) */
+		.post .row {
+		  margin-bottom: 2em;
+		}
