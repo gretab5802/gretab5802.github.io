@@ -116,7 +116,7 @@ input, select, textarea {
 /* Type */
 
 	body, input, select, textarea {
-		color: #000000;
+		color: #222222;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 14pt;
 		font-weight: 400;
@@ -203,7 +203,7 @@ input, select, textarea {
 	}
 
 	p {
-		font-size: 16pt;
+		font-size: 14pt;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -2360,12 +2360,12 @@ input, select, textarea {
 		}
 		
 		.image-group .large {
-		  width: 54%;
+		  width: 67%;
 		  padding: 0 2em 0 0;
 		}
 		
 		.image-group .small-images {
-		  width: 46%;
+		  width: 33%;
 		  display: flex;
 		  flex-direction: column;
 		  gap: 1em;
