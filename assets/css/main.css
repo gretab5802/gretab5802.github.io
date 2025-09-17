@@ -119,7 +119,7 @@ input, select, textarea {
 		color: #222222;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 14pt;
-		font-weight: 400;
+		font-weight: 600;
 		line-height: 1.75;
 	}
 
@@ -230,7 +230,7 @@ input, select, textarea {
 	}
 
 	h4 {
-		font-weight: 400;
+		font-weight: 600;
 		font-size: 0.7em;
 	}
 
@@ -1796,7 +1796,7 @@ input, select, textarea {
 		border-bottom: 0;
 		font-family: "Raleway", Helvetica, sans-serif;
 		font-size: 0.6em;
-		font-weight: 400;
+		font-weight: 600;
 		letter-spacing: 0.25em;
 		text-transform: uppercase;
 		white-space: nowrap;
@@ -2171,7 +2171,7 @@ input, select, textarea {
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
-			font-weight: 400;
+			font-weight: 600;
 			padding-left: 2.4em;
 			padding-right: 0.75em;
 			position: relative;
@@ -2263,7 +2263,7 @@ input, select, textarea {
 			line-height: 1;
 			text-transform: none !important;
 			font-family: 'Font Awesome 5 Free';
-			font-weight: 400;
+			font-weight: 600;
 		}
 
 		.icon > .label {
@@ -2662,7 +2662,7 @@ input, select, textarea {
 					display: block;
 					font-family: "Raleway", Helvetica, sans-serif;
 					font-size: 0.6em;
-					font-weight: 400;
+					font-weight: 600;
 					letter-spacing: 0.25em;
 					margin: -0.625em 0 1.7em 0;
 					text-transform: uppercase;
@@ -2726,7 +2726,7 @@ input, select, textarea {
 				display: block;
 				font-family: "Raleway", Helvetica, sans-serif;
 				font-size: 0.6em;
-				font-weight: 400;
+				font-weight: 600;
 				letter-spacing: 0.25em;
 				margin: -0.625em 0 1.7em 0;
 				text-transform: uppercase;
@@ -2896,7 +2896,7 @@ input, select, textarea {
 					display: inline-block;
 					font-family: "Raleway", Helvetica, sans-serif;
 					font-size: 0.6em;
-					font-weight: 400;
+					font-weight: 600;
 					letter-spacing: 0.25em;
 					line-height: 1;
 					margin: 0 0 0 2em;
@@ -3082,7 +3082,7 @@ input, select, textarea {
 	header p {
 		font-family: "Raleway", Helvetica, sans-serif;
 		font-size: 0.7em;
-		font-weight: 400;
+		font-weight: 600;
 		letter-spacing: 0.25em;
 		line-height: 2.5;
 		margin-top: -1em;
@@ -3240,7 +3240,7 @@ input, select, textarea {
 					border-bottom: 0;
 					font-family: "Raleway", Helvetica, sans-serif;
 					font-size: 0.7em;
-					font-weight: 400;
+					font-weight: 600;
 					letter-spacing: 0.25em;
 					text-transform: uppercase;
 				}
@@ -3557,7 +3557,7 @@ input, select, textarea {
 		color: #aaaaaa;
 		font-family: "Raleway", Helvetica, sans-serif;
 		font-size: 0.5em;
-		font-weight: 400;
+		font-weight: 600;
 		letter-spacing: 0.25em;
 		text-transform: uppercase;
 	}
@@ -3633,7 +3633,7 @@ input, select, textarea {
 					#menu .links > li a p {
 						font-family: "Raleway", Helvetica, sans-serif;
 						font-size: 0.6em;
-						font-weight: 400;
+						font-weight: 600;
 						letter-spacing: 0.25em;
 						margin-bottom: 0;
 						text-decoration: none;
