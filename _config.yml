@@ -1,7 +1,8 @@
 source:      .
 destination: ./_site
 includes:    ./_includes
-baseurl: /gretab5802.github.io
+baseurl: ""
+url: "https://gretab5802.github.io"
 
 collections:
   projects:
