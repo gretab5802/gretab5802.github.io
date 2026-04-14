@@ -1,7 +1,7 @@
 source:      .
 destination: ./_site
 includes:    ./_includes
-baseurl: /msaveski
+baseurl: /gretab5802.github.io
 
 collections:
   projects:
