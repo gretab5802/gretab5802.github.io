@@ -179,7 +179,7 @@ title: Home
   <style>
   .popup {
     display: none;
-    position: absolute;
+    position: fixed;
     z-index: 1000;
   }
   
@@ -205,8 +205,8 @@ title: Home
     
       const rect = event.currentTarget.getBoundingClientRect();
     
-      popup.style.left = (rect.right + window.scrollX) + 'px';
-      popup.style.top = (rect.top + window.scrollY) + 'px';
+      popup.style.left = (rect.right + 10) + 'px';
+      popup.style.top = rect.top + 'px';
     
       popup.style.display = 'block';
     }
