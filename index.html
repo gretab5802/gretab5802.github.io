@@ -183,13 +183,18 @@ title: Home
     z-index: 1000;
   }
   
+  .popup {
+  display: none;
+    position: fixed;
+    left: 20px;
+    top: 120px;
+    z-index: 1000;
+  }
+
   .popup img {
-    width: 50%;
-    max-width: 500px;
+    width: 20vw;
+    max-width: 200px;
     height: auto;
-    border: 1px solid #ccc;
-    background: white;
-    padding: 4px;
   }
   </style>
 
@@ -202,12 +207,6 @@ title: Home
       const img = document.getElementById('popup-img');
     
       img.src = path;
-    
-      const rect = event.currentTarget.getBoundingClientRect();
-    
-      popup.style.left = (rect.right + 10) + 'px';
-      popup.style.top = rect.top + 'px';
-    
       popup.style.display = 'block';
     }
   
