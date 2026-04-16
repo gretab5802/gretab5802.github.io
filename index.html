@@ -188,8 +188,8 @@ title: Home
   }
   
   .popup img {
-    width: 20%;
-    max-width: 200px;
+    width: 40%;
+    max-width: 300px;
     height: auto;
     border: 1px solid #ccc;
     background: white;
@@ -199,17 +199,21 @@ title: Home
 
   
   <script>
-  function openImg(event, path) {
-    const popup = document.getElementById('popup');
-    const img = document.getElementById('popup-img');
-  
-    img.src = path;
-  
-    popup.style.left = event.pageX + 'px';
-    popup.style.top = (event.pageY - 20) + 'px';
-  
-    popup.style.display = 'block';
-  }
+    function openImg(event, path) {
+      event.preventDefault();
+    
+      const popup = document.getElementById('popup');
+      const img = document.getElementById('popup-img');
+    
+      img.src = path;
+    
+      const rect = event.currentTarget.getBoundingClientRect();
+    
+      popup.style.left = (rect.right + window.scrollX + 10) + 'px';
+      popup.style.top = (rect.top + window.scrollY) + 'px';
+    
+      popup.style.display = 'block';
+    }
   
   document.addEventListener('click', function(e) {
     if (!e.target.closest('a')) {
