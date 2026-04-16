@@ -63,6 +63,40 @@ title: Home
   </div>
   {% endfor %}
 
+  <h4>Abstacts</h4>
+
+  {% for abstract in site.data.publications.abstracts %}
+  <div class="paper">
+      <p class="title"><b>{{ abstract.title }}</b></p>
+      <p>{{ abstract.authors }}</p>
+      <p><i>{{ abstract.venue }}</i></p>
+       <div class="paper-buttons">
+        {% if abstract.paper_pdf %}
+          <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Abstract</a>
+        {% endif %}
+  
+        {% if abstract.slides %}
+          <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
+        {% endif %}
+  
+        {% if abstract.poster %}
+          <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
+        {% endif %}
+  
+        {% if abstract.video %}
+          <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
+        {% endif %}
+  
+        {% if abstract.code %}
+          <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
+        {% endif %}
+  
+        {% if abstract.data %}
+          <a class="button" href="{{ paper.data }}" target="_blank">Data</a>
+        {% endif %}
+      </div>
+  </div>
+  {% endfor %}
     <!-- <div class="tab-pane" id="papers-all">
       {% for paper in site.data.publications.papers %}
         <div class="paper">
