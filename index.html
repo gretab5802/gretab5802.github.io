@@ -175,11 +175,19 @@ title: Home
   the <a href="#" onclick="openImg(event, 'assets/ummb_room4.jpg'); return false;">limits of my mental and physical abilities</a>,
   how to <a href="#" onclick="openImg(event, 'assets/ummb_pride_pit.jpg'); return false;">drum while eating an apple</a>,
   and the value of serving <a href="#" onclick="openImg(event, 'assets/ummb_indoor.jpg'); return false;">something much larger than myself</a>. <br/><br/>
-
+  
+  <div id="popup" class="popup">
+    <img id="popup-img">
+  </div>
+  
   <style>
+  .docs-section {
+    position: relative;
+  }
+    
   .popup {
     display: none;
-    position: relative;
+    position: absolute;
     z-index: 1000;
   }
   
@@ -207,6 +215,13 @@ title: Home
       const img = document.getElementById('popup-img');
     
       img.src = path;
+    
+      const rect = event.currentTarget.getBoundingClientRect();
+      const containerRect = document.getElementById('template').getBoundingClientRect();
+    
+      popup.style.left = (rect.right - containerRect.left) + 'px';
+      popup.style.top = (rect.top - containerRect.top) + 'px';
+    
       popup.style.display = 'block';
     }
     
@@ -221,7 +236,3 @@ title: Home
   
   Thank you to <a href="https://faculty.washington.edu/msaveski/" target="_blank">Martin Saveski</a> for the template.
 </div>  
-
-<div id="popup" class="popup">
-    <img id="popup-img">
-</div>
