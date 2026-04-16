@@ -53,7 +53,7 @@ title: Home
   </div>
   {% endfor %}
 
-  <h4>Abstacts</h4>
+  <h4>Abstracts</h4>
 
   {% for abstract in site.data.publications.abstracts %}
   <div class="paper">
@@ -169,9 +169,53 @@ title: Home
 
 <div class="docs-section" id="template">
   <h4>Miscellaneous</h4>
-  I was a member of the University of Minnesota Twin Cities marching band for two years, which taught me teamwork and collaboration,
-  the most efficient way to break drumsticks, the limits of my mental and physical abilities, how to drum while eating an apple,
-  and the value of serving something much larger than myself. <br/><br/>
+  I was a member of the University of Minnesota Twin Cities marching band for two years, which taught me
+  <a href="#" onclick="openImg('assets/ummb_tenor_island.jpg'); return false;">teamwork and collaboration</a>,
+  <a href="#" onclick="openImg('assets/ummb_broken_sticks.jpg'); return false;">the most efficient way to break drumsticks</a>,
+  the <a href="#" onclick="openImg('assets/ummb_room4.jpg'); return false;">limits of my mental and physical abilities</a>,
+  how to <a href="#" onclick="openImg('assets/ummb_pride_pit.jpg'); return false;">drum while eating an apple</a>,
+  and the value of serving <a href="#" onclick="openImg('assets/ummb_indoor.jpg'); return false;">something much larger than myself</a>. <br/><br/>
+
+  <a href="#" onclick="openImg('img1'); return false;">click to view figure</a>
+
+  <div id="modal" class="modal" onclick="closeImg()">
+    <div class="modal-content">
+      <img id="modal-img" />
+    </div>
+  </div>
+  
+  <style>
+  .modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.6);
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .modal-content img {
+    max-width: 80%;
+    max-height: 80%;
+    background: white;
+    padding: 10px;
+  }
+  </style>
+  
+  <script>
+  function openImg(path) {
+    document.getElementById('modal-img').src = path;
+    document.getElementById('modal').style.display = "flex";
+  }
+  
+  function closeImg() {
+    document.getElementById('modal').style.display = "none";
+  }
+  </script>
+
   
   Thank you to <a href="https://faculty.washington.edu/msaveski/" target="_blank">Martin Saveski</a> for the template.
 </div>  
