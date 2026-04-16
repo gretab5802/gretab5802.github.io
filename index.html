@@ -179,15 +179,15 @@ title: Home
   <style>
   .popup {
     display: none;
-    position: fixed;
+    position: relative;
     z-index: 1000;
   }
   
   .popup {
-  display: none;
-    position: fixed;
-    left: 20px;
-    top: 120px;
+    display: none;
+    position: absolute;
+    left: 10px;
+    top: 10px;
     z-index: 1000;
   }
 
@@ -209,7 +209,7 @@ title: Home
       img.src = path;
       popup.style.display = 'block';
     }
-  
+    
   document.addEventListener('click', function(e) {
     if (!e.target.closest('a')) {
       document.getElementById('popup').style.display = 'none';
