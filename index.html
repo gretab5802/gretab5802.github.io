@@ -31,35 +31,36 @@ title: Home
       {% assign selected_papers = site.data.publications.papers | where: "selected", "y" %}
       {% for paper in selected_papers %} -->
   <div class="paper">
-    <p class="title"><b>{{ paper.title }}</b></p>
-    <p>{{ paper.authors }}</p>
-    <p><i>{{ paper.venue }}</i></p>
-     <div class="paper-buttons">
-      {% if paper.paper_pdf %}
-        <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>
-      {% endif %}
-
-      {% if paper.slides %}
-        <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
-      {% endif %}
-
-      {% if paper.poster %}
-        <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
-      {% endif %}
-
-      {% if paper.video %}
-        <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
-      {% endif %}
-
-      {% if paper.code %}
-        <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
-      {% endif %}
-
-      {% if paper.data %}
-        <a class="button" href="{{ paper.data }}" target="_blank">Data</a>
-      {% endif %}
-
+    {% for paper in site.data.publications.papers %}
+      <p class="title"><b>{{ paper.title }}</b></p>
+      <p>{{ paper.authors }}</p>
+      <p><i>{{ paper.venue }}</i></p>
+       <div class="paper-buttons">
+        {% if paper.paper_pdf %}
+          <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>
+        {% endif %}
+  
+        {% if paper.slides %}
+          <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
+        {% endif %}
+  
+        {% if paper.poster %}
+          <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
+        {% endif %}
+  
+        {% if paper.video %}
+          <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
+        {% endif %}
+  
+        {% if paper.code %}
+          <a class="button" href="{{ paper.code }}" target="_blank">Code</a>
+        {% endif %}
+  
+        {% if paper.data %}
+          <a class="button" href="{{ paper.data }}" target="_blank">Data</a>
+        {% endif %}
     </div>
+    {% endfor %}
         <!-- </div>
       {% endfor %}
     </div> -->
@@ -208,7 +209,8 @@ title: Home
   <h4>Miscellaneous</h4>
   I was a member of the University of Minnesota Twin Cities marching band for two years, which taught me teamwork and collaboration,
   the most efficient way to break drumsticks, the limits of my mental and physical abilities, how to drum while eating an apple,
-  and the value of serving something much larger than myself.<br/>
+  and the value of serving something much larger than myself. <br/>
+  
   
   Thank you to <a href="https://faculty.washington.edu/msaveski/" target="_blank">Martin Saveski</a> for the template.
 </div>  
