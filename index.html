@@ -188,8 +188,8 @@ title: Home
   }
   
   .popup img {
-    width: 40%;
-    max-width: 300px;
+    width: 50%;
+    max-width: 500px;
     height: auto;
     border: 1px solid #ccc;
     background: white;
@@ -209,7 +209,7 @@ title: Home
     
       const rect = event.currentTarget.getBoundingClientRect();
     
-      popup.style.left = (rect.right + window.scrollX + 10) + 'px';
+      popup.style.left = (rect.right + window.scrollX) + 'px';
       popup.style.top = (rect.top + window.scrollY) + 'px';
     
       popup.style.display = 'block';
