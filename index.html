@@ -188,12 +188,14 @@ title: Home
   .popup {
     display: none;
     position: absolute;
+    left: 10px;
     z-index: 1000;
   }
 
   .popup img {
     width: 20vw;
-    max-width: 200px;
+    max-width: 300px;
+    max-height: 300px;
     height: auto;
   }
   </style>
@@ -205,18 +207,16 @@ title: Home
     
       const popup = document.getElementById('popup');
       const img = document.getElementById('popup-img');
+      const container = document.getElementById('template');
     
       img.src = path;
     
-      const rect = event.currentTarget.getBoundingClientRect();
-      const containerRect = document.getElementById('template').getBoundingClientRect();
+      const containerHeight = container.offsetHeight;
     
-      popup.style.left = (rect.right - containerRect.left) + 'px';
-      popup.style.top = (rect.top - containerRect.top) + 'px';
-    
+      popup.style.top = (containerHeight / 2) + 'px';   // middle
       popup.style.display = 'block';
     }
-    
+
   document.addEventListener('click', function(e) {
     if (!e.target.closest('a')) {
       document.getElementById('popup').style.display = 'none';
