@@ -6,10 +6,14 @@ title: Home
 <div class="docs-section" id="bio">
   <h4>Bio</h4>
   <p>I am an M.S. in Computer Science student at the University of Minnesota, Twin Cities with a research
-    focus on field robotics and multi-agent systems. I conduct research in the
-    <a href="https://nextgenai.umn.edu/multi-agent-group/" target="_blank">Next Generation Robotics Laboratory</a>
-    and am currently a planetary sampling automation intern at NASA Ames Research Center.
-    I've worked as a teaching assistant for courses in Python, Java, algorithms and data structures, and artificial intelligence.
+    focus on field robotics and multi-agent systems. I am advised by
+    <a href="https://cse.umn.edu/cs/maria-gini" target="_blank">Maria Gini</a>
+    and conduct research in the
+    <a href="https://nextgenai.umn.edu/multi-agent-group/" target="_blank">Next Generation Robotics Laboratory</a>.
+    I am currently a planetary sampling automation intern at NASA Ames Research Center.
+    I have worked as a teaching assistant for courses in Python, Java, algorithms and data structures, and artificial intelligence
+    and received my Bachelor of Science in Computer Science from the University of Minnesota, Twin Cities
+    in 2025.
   </p>
 </div>
 
@@ -188,14 +192,13 @@ title: Home
   .popup {
     display: none;
     position: absolute;
-    left: 20px;
     z-index: 1000;
   }
 
   .popup img {
     width: 20vw;
     max-width: 300px;
-    max-height: 300px;
+    max-height: 400px;
     width: auto;
     height: auto;
   }
@@ -205,18 +208,21 @@ title: Home
   <script>
     function openImg(event, path) {
       event.preventDefault();
-    
+
       const popup = document.getElementById('popup');
       const img = document.getElementById('popup-img');
-      const container = document.getElementById('template');
-    
+
       img.src = path;
-    
-      const containerHeight = container.offsetHeight;
-    
-      popup.style.top = (containerHeight / 2) + 'px';   // middle
+
+      const container = document.getElementById('template');
+      const rect = container.getBoundingClientRect();
+
+      popup.style.left = (-rect.width * 0.4) + 'px';
+      popup.style.bottom = (rect.height * 0.1) + 'px';
+
       popup.style.display = 'block';
     }
+
 
   document.addEventListener('click', function(e) {
     if (!e.target.closest('a')) {
