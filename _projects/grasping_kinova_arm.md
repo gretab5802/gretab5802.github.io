@@ -9,5 +9,5 @@ title: Object Grasping using Kinova Robot Arm
 - Acquired experience in teamwork, ROS2, simulation, and hands-on data visualization.
 - [Project GitHub link](https://github.com/gretab5802/kinova-arm-ros2-sim")
 
-![Robot arm](/assets/projects/robot_sim.png)
+<img style="width: 560px; display: block; " src="{{ '/assets/projects/robot_sim.png' | prepend: site.baseurl }}" />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OinOSpNkHpQ" frameborder="0" allowfullscreen></iframe>

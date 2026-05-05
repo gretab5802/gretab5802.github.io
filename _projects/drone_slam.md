@@ -9,5 +9,5 @@ title: Autonomous Drone 3D Mapping with Stereo SLAM
 - Gained experience in group project development and presentation, ROS2, and data visualization.
 - [Project GitHub link](https://github.com/VamsiKrishna1211/Stereo-Vision/tree/greta-dev)
 
-![Drone simulation](/assets/projects/drone_sim.png)
+<img style="width: 560px; display: block; " src="{{ '/assets/projects/drone_sim.png' | prepend: site.baseurl }}" />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ETb7JdDARAs" frameborder="0" allowfullscreen></iframe>

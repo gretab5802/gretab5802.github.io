@@ -7,6 +7,6 @@ title: LED Launcher
 - Gained hands-on experience in project management, Arduino, C++, and integration of sensors and microcontrollers.
 - [Project Github Link](https://github.com/gretab5802/led-launcher)
 
-![LED full setup](/assets/projects/led_proj_full.png)
-![Red LED](/assets/projects/CSE1012IndivProjec2LED1.JPEG)
+<img style="width: 560px; display: block; " src="{{ '/assets/projects/led_proj_full.png' | prepend: site.baseurl }}" />
+<img style="width: 560px; display: block; " src="{{ '/assets/projects/CSE1012IndivProjec2LED1.JPEG' | prepend: site.baseurl }}" />
 

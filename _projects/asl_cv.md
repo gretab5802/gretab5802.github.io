@@ -8,5 +8,5 @@ title: ASL Computer Vision Translator
 - Gained experience with group collaboration, Python, NumPy, artificial intelligence, computer vision, Raspberry Pi, and linear algebra (including SVD).
 - [Project GitHub link](https://github.com/gretab5802/asl-recognition)
 
-![ASL results](/assets/projects/ASLresults.png)
-![ASL results](/assets/projects/asl3.png)
+<img style="width: 560px; display: block; " src="{{ '/assets/projects/ASLresults.png' | prepend: site.baseurl }}" />
+<img style="width: 560px; display: block; " src="{{ '/assets/projects/asl3.png' | prepend: site.baseurl }}" />

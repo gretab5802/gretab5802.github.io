@@ -1,35 +1,35 @@
 projects:
   - title: "Autonomous Drone 3D Mapping with Stereo SLAM"
-    thumbnail: "assets/projects/2016_network-ab/thumbnail.jpg"
+    thumbnail: "assets/projects/drone_sim.png"
     url: "projects/drone_slam.html"
     selected: y
 
   - title: "Object Grasping using Kinova Robot Arm"
-    thumbnail: "assets/projects/2016_human-atlas/thumbnail.png"
+    thumbnail: "assets/projects/robot_sim.png"
     url: "projects/grasping_kinova_arm.html"
     selected: y
 
   - title: "ASL Computer Vision Translator"
-    thumbnail: "assets/projects/2015_jun/thumbnail.png"
+    thumbnail: "assets/projects/ASLresults.png"
     url: "projects/asl_cv.html"
     selected: n
 
   - title: "Drone Delivery Simulation"
-    thumbnail: "assets/projects/2014_item-cold-start/thumbnail.jpg"
+    thumbnail: "assets/projects/drone_delivery.png"
     url: "projects/drone_delivery.html"
     selected: n
 
   - title: "Distance Robot Arm"
-    thumbnail: "assets/projects/2013_iterative-hybrid-algorithm/thumbnail.jpg"
+    thumbnail: "assets/projects/distance_arm.png"
     url: "projects/distance_arm.html"
     selected: y
 
   - title: "LED Launcher"
-    thumbnail: "assets/projects/2011_twitter-sentiment-analysis/thumbnail.png"
+    thumbnail: "assets/projects/led_proj_full.png"
     url: "projects/led_launcher.html"
     selected: n
 
   - title: "Room Lux"
-    thumbnail: "assets/projects/2010_wordnet-construction/thumbnail.jpg"
+    thumbnail: "assets/projects/window1far.png"
     url: "projects/room_lux.html"
     selected: n

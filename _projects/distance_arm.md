@@ -9,4 +9,4 @@ title: Distance Robot Arm
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ozF-_InSFqY" frameborder="0" allowfullscreen></iframe>
 
-![Robot arm](/assets/projects/distance_arm.png)
+<img style="width: 560px; display: block; " src="{{ '/assets/projects/distance_arm.png' | prepend: site.baseurl }}" />

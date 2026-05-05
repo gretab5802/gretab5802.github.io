@@ -7,5 +7,5 @@ title: Room Lux
 - Gained experience in project management, data collection and analysis, sensors and microcontrollers, Arduino, and C++.
 - [Project GitHub link](https://github.com/gretab5802/room-lux")
 
-![North vs south](/assets/projects/northvssouth.png)
-![Window](/assets/projects/window1far.png)
+<img style="width: 560px; display: block; " src="{{ '/assets/projects/northvssouth.png' | prepend: site.baseurl }}" />
+<img style="width: 560px; display: block; " src="{{ '/assets/projects/window1far.png' | prepend: site.baseurl }}" />
